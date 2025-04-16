@@ -30,7 +30,19 @@ Work is being done incrementally, with logs updated daily in `project-log.md`.
 - Add personal project info
 
 ## 🗂️ Folder Structure
-(To be updated once reviewed)
+
+(Will be updated as the project proceeds)
+
+my-website/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── index.html
+├── about.html
+├── contact.html
+├── project-log.md
+└── README.md
 
 ## 🙌 Author
 Shreesh
