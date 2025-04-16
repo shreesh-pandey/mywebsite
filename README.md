@@ -60,9 +60,17 @@ To deploy:
 
 📍 A live link will be added here once deployed.
 
+## 🙏 Inspiration & Credits
+
+- **Template Name**: MyResume  
+- **Template URL**: [MyResume on BootstrapMade](https://bootstrapmade.com/free-html-bootstrap-template-my-resume/)  
+- **Author**: [BootstrapMade.com](https://bootstrapmade.com)  
+- **License**: [Creative Commons Attribution 3.0](https://bootstrapmade.com/license/)
+
 ## 🙌 Author
 Shreesh
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
