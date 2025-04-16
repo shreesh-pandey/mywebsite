@@ -13,7 +13,7 @@ Work is being done incrementally, with logs updated daily in `project-log.md`.
 
 ## 📁 Current Status
 - [x] Template downloaded and unzipped
-- [ ] Project structure reviewed
+- [x] Project structure reviewed
 - [ ] Content customization started
 - [ ] GitHub repo prepared
 - [ ] Site deployed via GitHub Pages
