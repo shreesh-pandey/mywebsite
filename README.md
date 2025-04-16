@@ -25,9 +25,12 @@ Work is being done incrementally, with logs updated daily in `project-log.md`.
 
 
 ## 🔜 Upcoming Steps
-- Continue homepage customization
-- Rename sections and links
-- Add personal project info
+- Review and clean up unused template sections
+- Customize homepage content with personal info
+- Rename sections and update internal navigation links
+- Add details of personal and professional projects
+- Start content updates on About and Contact pages
+
 
 ## 🗂️ Folder Structure
 
@@ -43,6 +46,19 @@ my-website/
 ├── contact.html
 ├── project-log.md
 └── README.md
+
+## 🚀 Deployment
+
+The site will be deployed using GitHub Pages once customization is complete.
+
+To deploy:
+
+1. Push the code to the `main` branch.
+2. Go to the repository settings on GitHub.
+3. Under the “Pages” section, choose the source as `main` and root directory.
+4. Save and wait for GitHub to publish the site.
+
+📍 A live link will be added here once deployed.
 
 ## 🙌 Author
 Shreesh
