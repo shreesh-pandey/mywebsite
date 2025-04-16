@@ -14,12 +14,12 @@ Work is being done incrementally, with logs updated daily in `project-log.md`.
 ## 📁 Current Status
 - [x] Template downloaded and unzipped
 - [x] Project structure reviewed
-- [ ] Content customization started
+- [x] Content customization started
 - [ ] GitHub repo prepared
 - [ ] Site deployed via GitHub Pages
 
 ## 🔜 Upcoming Steps
-- Customize homepage content
+- Continue homepage customization
 - Rename sections and links
 - Add personal project info
 
