@@ -18,6 +18,12 @@ Work is being done incrementally, with logs updated daily in `project-log.md`.
 - [ ] GitHub repo prepared
 - [ ] Site deployed via GitHub Pages
 
+## ✅ Completed Tasks
+- Downloaded and unzipped template
+- Started reviewing project structure
+- Began homepage content customization
+
+
 ## 🔜 Upcoming Steps
 - Continue homepage customization
 - Rename sections and links
