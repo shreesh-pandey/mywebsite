@@ -41,11 +41,22 @@
 
 **Time Spent:** 2 hours
 
-**Next Steps (April 18):**
-1. Begin Hero section customization (add name, tagline, CTA).
+## Day 3 – April 18, 2025
+
+**Tasks Done:**
+- Updated portfolio summary and renamed filters to “Professional” and “Personal” (removed “Web”).
+- Renamed “Services” section to “Certificates” and added real certifications.
+- Renamed “Testimonials” to “Recommendations” and updated its summary.
+- Updated “Contacts” section with actual contact details.
+- Edited sub‑footer: updated name, summary, and social media icons.
+
+**Time Spent:** 2 hours
+
+**Next Steps:**
+1. Begin Hero section customization (add your name, tagline, CTA).
 2. Replace About section placeholder text.
-3. Prepare Projects layout (content can be added later).
-4. Setup GitHub repository and commit current codebase.
+3. Prepare Projects layout (structure only, content later).
+
 
 ---
 
